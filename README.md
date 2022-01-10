@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # My Data Science projects
 
 From the [SkillFactory Data Science course](https://skillfactory.ru/data-science).
@@ -10,7 +9,3 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-science
 * [Проект 2. ______](___)
 
 ## Ссылки на резюме
-=======
-# sf_data_science
-SF homework
->>>>>>> f764e765bbf007f8a41fc0d58e89d0da6234f731
